@@ -1,2 +1,2 @@
-# LGMVIP-Web-Task01
+# lgmvip-web-task01
 LGMVIP task for todo list
